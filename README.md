@@ -1,8 +1,8 @@
 # Jeu de Loto
 
 ## Auteurs
-- Nom Prénom
-- Nom Prénom
+- PREVOT Cyril
+- TRAORE Mapate M.
 
 ---
 
